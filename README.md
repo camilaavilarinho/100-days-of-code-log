@@ -1,7 +1,9 @@
 # 100 Days Of Code - Log
 
-I've joined the #100DaysOfCode Challenge!    
-This is a public commitment to code for at least an hour every day for the next 100 days.     
+I've joined the #100DaysOfCode Challenge!
+
+This is a public commitment to code for at least an hour every day for the next 100 days.  
+   
 **Two main rules:**     
 * #1. Code minimum an hour every day for the next 100 days.
 
