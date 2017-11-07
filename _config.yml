@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: 100 Days Of Code - Log
-  avatar:
+  avatar: logo.png
   job:
   bio: "A page to log my #100DaysOfCode challenge."
   email: camilaavilarinho@gmail.com
